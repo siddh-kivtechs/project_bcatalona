@@ -1,8 +1,8 @@
 {
-  "name": "chatgpt-next-web",
-  "version": "1.9.3",
+  "name": "catalona",
+  "version": "0.0.9",
   "private": false,
-  "license": "Anti 996",
+  "license": "",
   "scripts": {
     "dev": "yarn fetch && next dev",
     "build": "yarn fetch && next build",
