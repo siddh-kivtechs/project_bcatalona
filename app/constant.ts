@@ -1,10 +1,10 @@
 export const OWNER = "siddht1";
 export const REPO = "project_catalona";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const REPO_URL = `https://kivtechs.cloud/`;
+export const ISSUE_URL = `https://kivtechs.cloud/newsletter`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
-export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
-export const FETCH_TAG_URL = `https://api.github.com/repos/${OWNER}/${REPO}/tags?per_page=1`;
+export const FETCH_COMMIT_URL = `https://api.kivtechs.cloud/`;
+export const FETCH_TAG_URL = `https://api.kivtechs.cloud/`;
 export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
 
 export enum Path {
