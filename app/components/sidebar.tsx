@@ -90,9 +90,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>ChatGPT by KIVTECHS</div>
+        <div className={styles["sidebar-title"]}>ChatBot by KIVTECHS</div>
         <div className={styles["sidebar-sub-title"]}>
-              Project CATALONA by KIVTECHS
+              CATLON by KIVTECHS
         </div>
         <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />
