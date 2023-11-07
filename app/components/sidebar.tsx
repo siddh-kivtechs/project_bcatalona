@@ -96,7 +96,7 @@ export function SideBar(props: { className?: string }) {
               CATLON by KIVTECHS
         </div>
         <div className={styles["sidebar-logo"]}>
-          <KIVTECHSIcon />
+          <ChatGptIcon />
         </div>
       </div>
 
