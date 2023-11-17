@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "Catlon|CAT-3A",
-  description: " ChatBot by KIVTECHS",
+  title: "Catlon",
+  description: "AI ChatBot by KIVTECHS",
   appleWebApp: {
-    title: "Catlon|CAT-3A ",
+    title: "Catlon ",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
